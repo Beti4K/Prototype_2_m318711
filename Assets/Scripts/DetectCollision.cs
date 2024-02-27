@@ -10,5 +10,4 @@ public class DetectCollision : MonoBehaviour
         Destroy(other.gameObject);
     }
 
-    
 }
